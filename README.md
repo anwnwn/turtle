@@ -1,3 +1,2 @@
 # turtle
-eqm stuff
-First commit!!
+sigh
